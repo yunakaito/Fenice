@@ -16,3 +16,5 @@
 <div align="center">
   <img src="../images/preview-2.png" title="preview" width="200" height="268">    <img src="../images/preview-3.png" title="preview" width="200" height="268">    <img src="../images/preview-4.png" title="preview" width="200" height="268">
 </div>
+
+## LICENSE
