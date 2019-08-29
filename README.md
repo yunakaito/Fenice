@@ -18,3 +18,5 @@
 </div>
 
 ## LICENSE
+
+[MIT](LICENSE)
